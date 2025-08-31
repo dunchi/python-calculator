@@ -16,10 +16,10 @@ def divide(x, y):
 
 
 print("=== 파이썬 계산기 ===")
-print("1. 덧셈")
-print("2. 뺄셈")
-print("3. 곱셈")
-print("4. 나눗셈")
+print("1. 더하기")
+print("2. 빼기")
+print("3. 곱하기")
+print("4. 나누기")
 
 choice = input("원하는 연산을 선택하세요 (1/2/3/4): ")
 
